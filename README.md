@@ -1,6 +1,6 @@
 # Notes
 ## A place to put all your notes from various modules
-
+### I recommend you use Markdown Files "*.md" to store notes that work well on github 
 # Using Git
 ## To `clone` this repository:
 - Enter a terminal
